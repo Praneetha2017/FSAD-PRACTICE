@@ -46,6 +46,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.klu"/>
 			<item value="com.fsads52"/>
 			<item value="com.hibcrud"/>
 			<item value="com.crud"/>
@@ -58,6 +59,7 @@
 			<item value="com.klu"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring-di"/>
 			<item value="hibernate_crud_demo"/>
 			<item value="hibernatecrud-create"/>
 			<item value="crud-create"/>

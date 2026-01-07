@@ -1825,3 +1825,1483 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-03 19:28:46.193
 !MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+!SESSION 2026-01-03 21:14:41.931 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-03 21:14:44.761
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-03 21:14:49.611
+!MESSAGE Logback config file: C:\Users\rpran\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-03 21:14:57.599
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rpran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-03 21:14:58.037
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+!SESSION 2026-01-07 14:05:15.677 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Users\rpran\eclipse-workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-07 14:05:17.943
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-07 14:05:19.255
+!MESSAGE Logback config file: C:\Users\rpran\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-07 14:05:29.119
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rpran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:05:29.604
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:18.837
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:18.838
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:18.838
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:18.839
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.619
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.627
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.891
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.891
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.892
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:19.892
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.169
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.173
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.181
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.182
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.182
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.182
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.317
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.335
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.345
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.357
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.357
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.358
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.358
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.479
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.484
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.493
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.493
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.494
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.495
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.648
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.664
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.670
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.679
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.680
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.680
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.680
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.724
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.733
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.736
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.747
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.747
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.747
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:29:20.748
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:03.136
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:04.598
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:06.065
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:07.599
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:08.817
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:10.259
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.593
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.596
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.599
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.599
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.600
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:11.601
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:11.690
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:13.012
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:14.677
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:16.347
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:18.263
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:21.469
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:23.618
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:25.721
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:28.141
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.513
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.517
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.519
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.519
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.520
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:28.520
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:30.644
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:32.332
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:34.028
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.733
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.736
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.745
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.746
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.746
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:30:35.747
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:35.857
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:37.189
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:38.544
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:39.850
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:41.097
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:42.708
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:44.412
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:45.714
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:47.216
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:48.728
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:50.534
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:51.931
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?format=xml&file=/releases/2025-12/202512101000&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:57.700
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?file=/eclipse/updates/4.37/R-4.37-202509050730&countryCode=in&timeZone=5&format=xml was not found
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2026-01-07 14:30:59.234
+!MESSAGE Mirrors URL https://www.eclipse.org/downloads/download.php?file=/eclipse/updates/4.37/R-4.37-202509050730&countryCode=in&timeZone=5&format=xml was not found
+!SESSION 2026-01-07 14:31:26.869 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Users/rpran/eclipse-workspace/
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-07 14:31:32.590
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-07 14:31:34.690
+!MESSAGE Logback config file: C:\Users\rpran\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-01-07 14:31:35.093
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-07 14:31:35.093
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-01-07 14:31:35.354
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-07 14:31:35.354
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-07 14:31:42.414
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rpran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:42.915
+!MESSAGE 14:31:42.914 [Simple-Language-Server main thread] INFO  o.s.i.v.b.a.BootVersionValidationConfig - Started Boot Version reconciler
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:42.947
+!MESSAGE 14:31:42.947 [pool-2-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:43.191
+!MESSAGE 14:31:43.185 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.BootJavaLanguageServerComponents - update live process tracker settings - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:43.257
+!MESSAGE 14:31:43.250 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - project created event: hibernate_crud_demo
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:43.268
+!MESSAGE 14:31:43.263 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - project created event: hibernate-create
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:43.774
+!MESSAGE 14:31:43.276 [pool-2-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:31:44.463
+!MESSAGE 14:31:43.778 [pool-4-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'hibernate_crud_demo'
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:41:52.798
+!MESSAGE 14:31:44.466 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:23.634
+!MESSAGE 14:42:23.574 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: SpringDiDemo - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:23.662
+!MESSAGE 14:42:23.661 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:23.712
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:23.713
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:23.714
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:23.714
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:24.098
+!MESSAGE 14:42:24.095 [pool-2-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:24.417
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:24.417
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:24.418
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:24.418
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:25.352
+!MESSAGE 14:42:25.351 [Project-Reconciler-1] INFO  o.s.i.v.boot.app.RestTemplateFactory - Environment size: 43
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:25.741
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:25.741
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:25.742
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:42:25.743
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:26.228
+!MESSAGE 14:42:25.781 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/META-INF/maven/com.klu/Spring-di/pom.properties, file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/META-INF/maven/com.klu/Spring-di/pom.xml, file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/application.properties, file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/com/klu/SpringDiDemoApplication.class, file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/test-classes/com/klu/SpringDiDemoApplicationTests.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:42:48.000
+!MESSAGE 14:42:47.998 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: SpringDiDemo - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.350
+!MESSAGE 14:42:48.547 [pool-2-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.437
+!MESSAGE 14:44:26.436 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.klu.Car]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.583
+!MESSAGE 14:44:26.582 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.587
+!MESSAGE 14:44:26.586 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.618
+!MESSAGE 14:44:26.590 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.619
+!MESSAGE 14:44:26.619 [pool-2-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:26.619
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:26.620
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:26.620
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:26.620
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:26.674
+!MESSAGE 14:44:26.636 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/application.properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:27.112
+!MESSAGE 14:44:26.752 [ForkJoinPool.commonPool-worker-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/rpran/eclipse-workspace/SpringDiDemo
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:27.686
+!MESSAGE 14:44:27.685 [pool-2-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:57.495
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:57.496
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:57.497
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:44:57.498
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.520
+!MESSAGE 14:44:57.466 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.532
+!MESSAGE 14:44:57.532 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.klu.Bike]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.612
+!MESSAGE 14:44:57.612 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.617
+!MESSAGE 14:44:57.616 [pool-2-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.618
+!MESSAGE 14:44:57.617 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:57.707
+!MESSAGE 14:44:57.691 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:58.038
+!MESSAGE 14:44:58.037 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:58.122
+!MESSAGE 14:44:58.040 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:44:58.123
+!MESSAGE 14:44:58.040 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:10.256
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:10.256
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:10.257
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:10.257
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.374
+!MESSAGE 14:45:10.115 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.375
+!MESSAGE 14:45:10.373 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.375
+!MESSAGE 14:45:10.373 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.390
+!MESSAGE 14:45:10.386 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.407
+!MESSAGE 14:45:10.406 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.487
+!MESSAGE 14:45:10.472 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.692
+!MESSAGE 14:45:10.692 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:10.693
+!MESSAGE 14:45:10.692 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:24.872
+!MESSAGE 14:45:10.883 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java done in 2ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:25.013
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:25.013
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:25.014
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:45:25.015
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.029
+!MESSAGE 14:45:25.002 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\rpran\eclipse-workspace\SpringDiDemo\src\main\java\com\klu\MainApp.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.080
+!MESSAGE 14:45:25.079 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.082
+!MESSAGE 14:45:25.082 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.139
+!MESSAGE 14:45:25.138 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.151
+!MESSAGE 14:45:25.151 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:25.589
+!MESSAGE 14:45:25.472 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:32.497
+!MESSAGE 14:45:32.392 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 6ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:32.528
+!MESSAGE 14:45:32.497 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:32.978
+!MESSAGE 14:45:32.674 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.179
+!MESSAGE 14:45:32.988 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.180
+!MESSAGE 14:45:32.988 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.181
+!MESSAGE 14:45:32.988 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.383
+!MESSAGE 14:45:33.382 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.515
+!MESSAGE 14:45:33.503 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:33.516
+!MESSAGE 14:45:33.514 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:34.006
+!MESSAGE 14:45:34.005 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:34.023
+!MESSAGE 14:45:34.022 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:34.222
+!MESSAGE 14:45:34.221 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:34.506
+!MESSAGE 14:45:34.506 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:35.231
+!MESSAGE 14:45:34.523 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:35.232
+!MESSAGE 14:45:34.523 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:35.324
+!MESSAGE 14:45:35.319 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:35.821
+!MESSAGE 14:45:35.451 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:35.833
+!MESSAGE 14:45:35.828 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:36.086
+!MESSAGE 14:45:36.085 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:36.339
+!MESSAGE 14:45:36.331 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:36.340
+!MESSAGE 14:45:36.340 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:37.347
+!MESSAGE 14:45:36.720 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:37.352
+!MESSAGE 14:45:37.352 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:37.868
+!MESSAGE 14:45:37.868 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:37.874
+!MESSAGE 14:45:37.874 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:38.360
+!MESSAGE 14:45:38.359 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:38.881
+!MESSAGE 14:45:38.879 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:39.399
+!MESSAGE 14:45:38.884 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:39.531
+!MESSAGE 14:45:39.399 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:39.897
+!MESSAGE 14:45:39.885 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:40.892
+!MESSAGE 14:45:40.401 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:40.893
+!MESSAGE 14:45:40.407 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:40.903
+!MESSAGE 14:45:40.902 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:44.029
+!MESSAGE 14:45:40.947 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:44.037
+!MESSAGE 14:45:44.037 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:44.482
+!MESSAGE 14:45:44.481 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:45.034
+!MESSAGE 14:45:45.025 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:45.035
+!MESSAGE 14:45:45.033 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:45.506
+!MESSAGE 14:45:45.355 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:45.669
+!MESSAGE 14:45:45.548 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:45.670
+!MESSAGE 14:45:45.548 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:46.548
+!MESSAGE 14:45:45.822 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:46.549
+!MESSAGE 14:45:46.059 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:46.555
+!MESSAGE 14:45:46.555 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:46.697
+!MESSAGE 14:45:46.695 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 40
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:46.699
+!MESSAGE 14:45:46.695 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:47.066
+!MESSAGE 14:45:47.040 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:47.075
+!MESSAGE 14:45:47.074 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:47.657
+!MESSAGE 14:45:47.558 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:47.658
+!MESSAGE 14:45:47.655 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 42
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:48.109
+!MESSAGE 14:45:48.106 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:48.589
+!MESSAGE 14:45:48.587 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:48.957
+!MESSAGE 14:45:48.956 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:50.642
+!MESSAGE 14:45:50.638 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:50.815
+!MESSAGE 14:45:50.814 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 47
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:50.815
+!MESSAGE 14:45:50.814 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:51.156
+!MESSAGE 14:45:51.146 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:51.157
+!MESSAGE 14:45:51.156 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:51.331
+!MESSAGE 14:45:51.329 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:51.332
+!MESSAGE 14:45:51.330 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:54.038
+!MESSAGE 14:45:54.038 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:54.397
+!MESSAGE 14:45:54.048 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:54.458
+!MESSAGE 14:45:54.457 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:54.788
+!MESSAGE 14:45:54.538 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:54.789
+!MESSAGE 14:45:54.548 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:55.034
+!MESSAGE 14:45:54.969 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:55.282
+!MESSAGE 14:45:55.043 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:55.555
+!MESSAGE 14:45:55.417 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:55.560
+!MESSAGE 14:45:55.559 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:56.075
+!MESSAGE 14:45:55.681 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 55
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:56.077
+!MESSAGE 14:45:56.076 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:56.575
+!MESSAGE 14:45:56.080 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:56.635
+!MESSAGE 14:45:56.583 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:56.637
+!MESSAGE 14:45:56.583 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:57.072
+!MESSAGE 14:45:57.072 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:57.076
+!MESSAGE 14:45:57.075 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:57.140
+!MESSAGE 14:45:57.138 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:58.381
+!MESSAGE 14:45:58.380 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:58.810
+!MESSAGE 14:45:58.388 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:58.811
+!MESSAGE 14:45:58.389 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:58.811
+!MESSAGE 14:45:58.391 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:59.407
+!MESSAGE 14:45:59.399 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:45:59.950
+!MESSAGE 14:45:59.492 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:46:00.122
+!MESSAGE 14:46:00.121 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:46:00.431
+!MESSAGE 14:46:00.422 [pool-4-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:46:00.432
+!MESSAGE 14:46:00.430 [pool-2-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:46:03.039
+!MESSAGE 14:46:03.039 [pool-2-thread-10] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 7ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:46:58.298
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:46:58.298
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:46:58.299
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 14:46:58.299
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:46:58.683
+!MESSAGE 14:46:58.683 [pool-2-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.jface 2 0 2026-01-07 14:46:58.984
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-07 14:46:58.984
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:03.731
+!MESSAGE 14:47:03.306 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:06.591
+!MESSAGE 14:47:06.590 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:06.592
+!MESSAGE 14:47:06.590 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:06.593
+!MESSAGE 14:47:06.590 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:11.113
+!MESSAGE 14:47:10.940 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:40.836
+!MESSAGE 14:47:11.980 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:40.837
+!MESSAGE 14:47:14.470 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:40.837
+!MESSAGE 14:47:22.930 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:41.963
+!MESSAGE 14:47:41.962 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 32
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:49.239
+!MESSAGE 14:47:49.238 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 36
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:49.239
+!MESSAGE 14:47:49.238 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:49.240
+!MESSAGE 14:47:49.238 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:49.746
+!MESSAGE 14:47:49.463 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:51.733
+!MESSAGE 14:47:51.731 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:52.911
+!MESSAGE 14:47:52.160 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:53.413
+!MESSAGE 14:47:53.412 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 48
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:47:53.414
+!MESSAGE 14:47:53.412 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:04.965
+!MESSAGE 14:47:59.329 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 57
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:22.472
+!MESSAGE 14:48:22.471 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 62
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:23.822
+!MESSAGE 14:48:23.821 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 67
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:23.823
+!MESSAGE 14:48:23.821 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:23.823
+!MESSAGE 14:48:23.821 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:28.831
+!MESSAGE 14:48:25.797 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:30.330
+!MESSAGE 14:48:30.329 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 78
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:36.202
+!MESSAGE 14:48:36.201 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 86
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:36.202
+!MESSAGE 14:48:36.201 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:38.325
+!MESSAGE 14:48:38.324 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 90
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:43.330
+!MESSAGE 14:48:43.096 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:44.261
+!MESSAGE 14:48:44.259 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 96
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:44.263
+!MESSAGE 14:48:44.259 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:44.264
+!MESSAGE 14:48:44.260 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:46.132
+!MESSAGE 14:48:46.131 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:47.922
+!MESSAGE 14:48:47.921 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 101
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:47.923
+!MESSAGE 14:48:47.921 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:48:48.535
+!MESSAGE 14:48:48.534 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 104
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:49:22.887
+!MESSAGE 14:49:22.886 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 107
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:49:22.888
+!MESSAGE 14:49:22.886 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:06.093
+!MESSAGE 14:50:03.075 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:06.928
+!MESSAGE 14:50:06.926 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 114
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:06.929
+!MESSAGE 14:50:06.927 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:06.930
+!MESSAGE 14:50:06.927 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:08.015
+!MESSAGE 14:50:08.013 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 118
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:08.015
+!MESSAGE 14:50:08.014 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:13.416
+!MESSAGE 14:50:13.047 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 125
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:24.945
+!MESSAGE 14:50:24.944 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 129
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:24.946
+!MESSAGE 14:50:24.944 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:24.949
+!MESSAGE 14:50:24.944 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:27.325
+!MESSAGE 14:50:27.324 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:29.857
+!MESSAGE 14:50:29.856 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 136
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:30.322
+!MESSAGE 14:50:30.322 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 138
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:50:30.323
+!MESSAGE 14:50:30.322 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:51:03.440
+!MESSAGE 14:51:00.298 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:51:03.441
+!MESSAGE 14:51:03.440 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:52:23.537
+!MESSAGE 14:52:16.904 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 144
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:52:24.013
+!MESSAGE 14:52:24.012 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 155
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:52:31.215
+!MESSAGE 14:52:31.215 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 158
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:52:31.216
+!MESSAGE 14:52:31.215 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:53:06.010
+!MESSAGE 14:52:34.735 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:53:06.011
+!MESSAGE 14:52:34.735 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:53:06.984
+!MESSAGE 14:53:06.982 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 175
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:53:06.985
+!MESSAGE 14:53:06.983 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:53:10.989
+!MESSAGE 14:53:10.988 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 181
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:03.336
+!MESSAGE 14:54:03.336 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:03.372
+!MESSAGE 14:54:03.371 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:07.481
+!MESSAGE 14:54:07.388 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:08.124
+!MESSAGE 14:54:07.903 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:08.125
+!MESSAGE 14:54:08.123 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 67
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:08.272
+!MESSAGE 14:54:08.270 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:08.764
+!MESSAGE 14:54:08.762 [pool-2-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:08.950
+!MESSAGE 14:54:08.777 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:09.096
+!MESSAGE 14:54:09.095 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:09.290
+!MESSAGE 14:54:09.279 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:09.291
+!MESSAGE 14:54:09.289 [pool-2-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:09.779
+!MESSAGE 14:54:09.292 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:10.289
+!MESSAGE 14:54:09.791 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:10.290
+!MESSAGE 14:54:10.043 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:10.885
+!MESSAGE 14:54:10.301 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:11.320
+!MESSAGE 14:54:11.314 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:11.321
+!MESSAGE 14:54:11.318 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:11.395
+!MESSAGE 14:54:11.394 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:12.821
+!MESSAGE 14:54:12.319 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:12.833
+!MESSAGE 14:54:12.832 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:12.846
+!MESSAGE 14:54:12.845 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 79
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:13.404
+!MESSAGE 14:54:13.378 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:15.774
+!MESSAGE 14:54:15.773 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:27.898
+!MESSAGE 14:54:27.897 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 82
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:27.898
+!MESSAGE 14:54:27.897 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:27.899
+!MESSAGE 14:54:27.897 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:27.968
+!MESSAGE 14:54:27.967 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:40.972
+!MESSAGE 14:54:28.421 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:41.197
+!MESSAGE 14:54:41.196 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:41.483
+!MESSAGE 14:54:41.482 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:46.394
+!MESSAGE 14:54:46.393 [pool-2-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:46.407
+!MESSAGE 14:54:46.407 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:46.457
+!MESSAGE 14:54:46.456 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:46.922
+!MESSAGE 14:54:46.922 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:47.097
+!MESSAGE 14:54:47.096 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:47.423
+!MESSAGE 14:54:47.422 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:47.425
+!MESSAGE 14:54:47.424 [pool-2-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:47.917
+!MESSAGE 14:54:47.738 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:47.929
+!MESSAGE 14:54:47.928 [pool-4-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:48.247
+!MESSAGE 14:54:48.246 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:54:48.248
+!MESSAGE 14:54:48.247 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:56:14.607
+!MESSAGE 14:56:14.606 [pool-4-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:56:33.334
+!MESSAGE 14:56:14.624 [pool-2-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:56:45.975
+!MESSAGE 14:56:34.685 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 14:56:49.709
+!MESSAGE 14:56:49.708 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 191
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:00:39.723
+!MESSAGE 15:00:37.367 [pool-4-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:00:39.723
+!MESSAGE 15:00:39.720 [pool-4-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:02.296
+!MESSAGE 15:02:00.186 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:02.296
+!MESSAGE 15:02:02.295 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:03.058
+!MESSAGE 15:02:02.708 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:03.137
+!MESSAGE 15:02:03.128 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:03.137
+!MESSAGE 15:02:03.136 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:12.212
+!MESSAGE 15:02:03.566 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:12.212
+!MESSAGE 15:02:12.211 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:14.376
+!MESSAGE 15:02:14.375 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:14.378
+!MESSAGE 15:02:14.377 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:16.726
+!MESSAGE 15:02:16.725 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:17.556
+!MESSAGE 15:02:16.783 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:17.803
+!MESSAGE 15:02:17.794 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:17.804
+!MESSAGE 15:02:17.803 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:32.856
+!MESSAGE 15:02:18.071 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:32.857
+!MESSAGE 15:02:30.472 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:32.857
+!MESSAGE 15:02:30.474 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:33.317
+!MESSAGE 15:02:33.316 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:33.394
+!MESSAGE 15:02:33.393 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:33.397
+!MESSAGE 15:02:33.394 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:33.398
+!MESSAGE 15:02:33.398 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:02:48.327
+!MESSAGE 15:02:33.831 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:00.735
+!MESSAGE 15:03:00.735 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:34.909
+!MESSAGE 15:03:34.907 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:38.474
+!MESSAGE 15:03:37.703 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:38.475
+!MESSAGE 15:03:38.177 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:38.476
+!MESSAGE 15:03:38.473 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 94
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:38.737
+!MESSAGE 15:03:38.736 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:38.989
+!MESSAGE 15:03:38.775 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.217
+!MESSAGE 15:03:38.990 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:43.364
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:43.365
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:43.365
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:43.366
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.642
+!MESSAGE 15:03:43.487 [ForkJoinPool.commonPool-worker-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/rpran/eclipse-workspace/SpringDiDemo
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.673
+!MESSAGE 15:03:43.673 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.709
+!MESSAGE 15:03:43.709 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.710
+!MESSAGE 15:03:43.709 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.711
+!MESSAGE 15:03:43.709 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:43.900
+!MESSAGE 15:03:43.899 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:46.173
+!MESSAGE 15:03:46.172 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:47.508
+!MESSAGE 15:03:47.503 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:47.720
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:47.720
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:47.721
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:03:47.721
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:48.243
+!MESSAGE 15:03:48.242 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:48.261
+!MESSAGE 15:03:48.260 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:48.262
+!MESSAGE 15:03:48.260 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Engine.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:49.129
+!MESSAGE 15:03:49.127 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:03:49.153
+!MESSAGE 15:03:49.153 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:09.079
+!MESSAGE 15:04:09.078 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/resources/applicationContext.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:09.227
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:09.228
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:09.228
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:09.229
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:11.033
+!MESSAGE 15:04:09.237 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/target/classes/applicationContext.xml]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:13.938
+!MESSAGE 15:04:13.937 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:13.942
+!MESSAGE 15:04:13.942 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:13.943
+!MESSAGE 15:04:13.942 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:15.563
+!MESSAGE 15:04:15.562 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:15.616
+!MESSAGE 15:04:15.615 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.klu.Bike]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:15.754
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:15.754
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:15.754
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:15.755
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:16.279
+!MESSAGE 15:04:15.879 [ForkJoinPool.commonPool-worker-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/rpran/eclipse-workspace/SpringDiDemo
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:16.304
+!MESSAGE 15:04:16.293 [pool-4-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:16.304
+!MESSAGE 15:04:16.302 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Bike.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:17.207
+!MESSAGE 15:04:16.308 [pool-4-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:17.214
+!MESSAGE 15:04:17.212 [pool-2-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:20.526
+!MESSAGE 15:04:20.522 [pool-2-thread-19] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:20.743
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:20.743
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:20.743
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-07 15:04:20.745
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:20.859
+!MESSAGE 15:04:20.616 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\rpran\eclipse-workspace\SpringDiDemo\src\main\java\com\klu\Car.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:21.270
+!MESSAGE 15:04:21.269 [pool-4-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:21.291
+!MESSAGE 15:04:21.290 [pool-4-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/Car.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:21.302
+!MESSAGE 15:04:21.302 [pool-4-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:28.438
+!MESSAGE 15:04:28.438 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/rpran/eclipse-workspace/hibernate_crud_demo/src/main/java/com/klu/app/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:52.836
+!MESSAGE 15:04:33.007 [pool-2-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:04:52.836
+!MESSAGE 15:04:48.190 [pool-2-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:09:54.059
+!MESSAGE 15:06:33.251 [pool-2-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:09:54.059
+!MESSAGE 15:06:33.267 [pool-2-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:09:54.060
+!MESSAGE 15:09:54.057 [pool-4-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:09:54.060
+!MESSAGE 15:09:54.058 [pool-2-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:11:24.783
+!MESSAGE 15:11:24.782 [pool-4-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:11:24.784
+!MESSAGE 15:11:24.782 [pool-2-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:11:24.784
+!MESSAGE 15:11:24.782 [pool-2-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:11:54.589
+!MESSAGE 15:11:54.588 [pool-2-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:12:06.723
+!MESSAGE 15:12:06.722 [pool-2-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-07 15:12:15.419
+!MESSAGE 15:12:15.417 [pool-2-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/rpran/eclipse-workspace/SpringDiDemo/src/main/java/com/klu/MainApp.java
